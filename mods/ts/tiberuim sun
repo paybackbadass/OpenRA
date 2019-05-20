@@ -1,0 +1,18 @@
+
+audio	Implement "Game Saved" / "Game Loaded" notifications in RA and D2k.	a month ago
+bits	Add assault move to TS.	2 years ago
+chrome	Fix missing EOF yaml newlines and other style issues.	18 days ago
+installer	Remove TSLauncher.exe from the IDFiles of the origin ts install	9 months ago
+languages	revert back to untranslated for uniform auto-generation	5 years ago
+maps	Update TS map previews and formatting.	18 days ago
+rules	Empty the default of TrailSequences in NukePower	3 days ago
+sequences	Let civilians use the normal stand animation when panicking	2 months ago
+tilesets	Remove TileSet.Palette and PaletteFromCurrentTileset.	a year ago
+uibits	Add requires-auth indicator to the server lists.	9 months ago
+weapons	Implement TS cluster missile warhead	11 days ago
+chrome.yaml	Implement loading screens.	a month ago
+cursors.yaml	Refactored cursors.yaml to use palettes from rules.	8 months ago
+hotkeys.yaml	Remove unused hotkeys from each mod.	2 years ago
+icon.png	Add 32px icons for default mods.	2 years ago
+metrics.yaml	System messages should be yellow to distinguish them from normal	23 days ago
+mod.yaml	Add save/load browser and buttons to the UI.
